@@ -1,0 +1,6 @@
+{
+  "name": "SoCal Solar Clean",
+  "description": "Professional solar panel cleaning, 0 PPM pure deionized water washing, solar bird proofing, and gutter cleaning serving Southern California.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
